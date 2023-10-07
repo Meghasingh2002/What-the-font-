@@ -1,0 +1,34 @@
+/* styling the content*/
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    align-items: center;
+    /* background-color: red; */
+}
+header{
+    /* styling , adjustin and modifying the header settings and designs */
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+    padding-left: 15px;
+    background-image: url(./ultra-hd-3840-x-2160-wallpaper-u5r6p3hemc1ajjje.jpg);
+    color: aliceblue;
+    font-family:'DM Serif Display', serif ; /* adding the font to make the header content look dnlightened */
+}
+main{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: aliceblue;
+    font-size: 168%;
+    padding-right: 180px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: fantasy; /* adding diffrent font for the lyrics */
+    background-image:url(./ultra-hd-3840-x-2160-wallpaper-u5r6p3hemc1ajjje.jpg)
+}
